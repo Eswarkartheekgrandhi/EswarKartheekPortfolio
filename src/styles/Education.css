@@ -80,3 +80,11 @@
     text-align: center;
   }
 }
+
+
+@media (max-width: 376px) {
+  .education_body a {
+    top: 91%;
+    right: 1%;
+  }
+}
