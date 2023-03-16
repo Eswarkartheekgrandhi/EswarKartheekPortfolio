@@ -204,3 +204,18 @@
     overflow-x: hidden;
   }
 }
+
+@media (max-width: 320px) {
+  .about .prompt p {
+    font-size: 20px;
+    /* margin-top: 0%; */
+  }
+
+  .about .prompt .prompt_p {
+    margin-top: 1%;
+  }
+  
+  .about .home_image img {
+    height: 210px;
+  }
+}
