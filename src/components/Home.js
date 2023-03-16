@@ -39,11 +39,17 @@ function Home() {
               <a
                 href="https://wa.link/dupayq"
                 target="_blank"
+                rel="noreferrer"
                 className="buttons1"
               >
                 <WhatsAppIcon /> Whatsapp
               </a>
-              <a href="#" className="buttons2">
+              <a
+                href="https://drive.google.com/file/d/1nNy8ptyE8K-EgW4CbuLqivUR2iTh42_L/view?usp=share_link"
+                className="buttons2"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <DescriptionIcon />
                 Get Resume
               </a>
