@@ -205,7 +205,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 750px) {
   .about .prompt p {
     font-size: 20px;
     /* margin-top: 0%; */
@@ -218,4 +218,5 @@
   .about .home_image img {
     height: 210px;
   }
+  
 }
