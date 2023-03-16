@@ -205,7 +205,11 @@
   }
 }
 
-@media (max-width: 750px) {
+@media (max-width: 376px) {
+  * {
+    overflow-x: hidden;
+  }
+
   .about .prompt p {
     font-size: 20px;
     /* margin-top: 0%; */
@@ -214,9 +218,8 @@
   .about .prompt .prompt_p {
     margin-top: 1%;
   }
-  
+
   .about .home_image img {
-    height: 210px;
+    height: 170px;
   }
-  
 }
