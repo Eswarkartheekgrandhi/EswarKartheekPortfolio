@@ -45,7 +45,7 @@ function Home() {
                 <WhatsAppIcon /> Whatsapp
               </a>
               <a
-                href="https://drive.google.com/file/d/1nNy8ptyE8K-EgW4CbuLqivUR2iTh42_L/view?usp=share_link"
+                href="https://drive.google.com/file/d/1sd78dwEA7babwjEaxu2QZS_KWSkANnal/view?usp=sharing"
                 className="buttons2"
                 target="_blank"
                 rel="noreferrer"
